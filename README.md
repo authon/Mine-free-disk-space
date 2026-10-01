@@ -3,7 +3,7 @@
 
 ````
     - name: 释放Ubuntu磁盘空间
-      uses: authon/free-disk-space@main
+      uses: authon/Mine-free-disk-space@main
       with:
         remove_android: true
         remove_dotnet: true
